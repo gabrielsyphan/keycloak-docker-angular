@@ -1,7 +1,7 @@
 # Keycloak + Postgres + Docker + Angular #
 
 ## Dependencies ##
-To run this project, you should run the docker first, open the keycloak page ant create:
+To run this project, you should run the docker first, open the keycloak page and create:
 * Realm: demo
 * Client: app-demo
 * Any user, so you can sign in
